@@ -8,7 +8,7 @@ Key features:
 2. Debouncing effect --> QR code will be generated only after user finished typing
 3. Allow user to download generated QR code as .png file
 
-![Screenshot 01](https://github.com/arifoyong/qr-generator/blob/master/screenshots/Screenshot1.png)
+![Screenshot 01](https://github.com/arifoyong/qr-generator/blob/master/screenshots/Screenshot_01.gif)
 
 ## How to use
 
