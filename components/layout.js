@@ -6,7 +6,7 @@ const Layout = ({ children }) => {
       <header className="w-full bg-gray-800 text-white py-3 px-3">
         <Link href="/">
           <a href="" className="font-bold text-2xl">
-            QRGEN
+            QR
           </a>
         </Link>
       </header>
